@@ -17,8 +17,9 @@
     "vite-plugin-solid": "^3.0.0-next.4"
   },
   "dependencies": {
-    "@solidjs/web": "2.0.0-beta.3",
-    "solid-js": "2.0.0-beta.3",
+    "@solidjs/web": "2.0.0-beta.10",
+    "@solidjs/signals": "2.0.0-beta.10",
+    "solid-js": "2.0.0-beta.10",
     "solid-three": "https://pkg.pr.new/solid-three@c8bc011",
     "three": "^0.184.0"
   }
